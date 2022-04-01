@@ -290,6 +290,22 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/anne/proprietary/odm/lib64/hwcam/hwcam.hi6250.ANNE.s.S5K3P8ANE.so:$(TARGET_COPY_OUT_ODM)/lib64/hwcam/hwcam.hi6250.ANNE.s.S5K3P8ANE.so \
     vendor/huawei/anne/proprietary/odm/lib64/hwcam/hwcam.hi6250.m.ANNE.so:$(TARGET_COPY_OUT_ODM)/lib64/hwcam/hwcam.hi6250.m.ANNE.so \
     vendor/huawei/anne/proprietary/odm/lib64/hwcam/hwcam.imx498.pd.so:$(TARGET_COPY_OUT_ODM)/lib64/hwcam/hwcam.imx498.pd.so \
+    vendor/huawei/anne/proprietary/odm/lib64/libMegviiUnlock.so:$(TARGET_COPY_OUT_ODM)/lib64/libMegviiUnlock.so \
+    vendor/huawei/anne/proprietary/odm/lib64/libSonyIMX371RmscLibrary.so:$(TARGET_COPY_OUT_ODM)/lib64/libSonyIMX371RmscLibrary.so \
+    vendor/huawei/anne/proprietary/odm/lib64/libSonyPDLibrary.so:$(TARGET_COPY_OUT_ODM)/lib64/libSonyPDLibrary.so \
+    vendor/huawei/anne/proprietary/odm/lib64/libarcsoft_agegender_estimation.so:$(TARGET_COPY_OUT_ODM)/lib64/libarcsoft_agegender_estimation.so \
+    vendor/huawei/anne/proprietary/odm/lib64/libarcsoft_beautyshot.so:$(TARGET_COPY_OUT_ODM)/lib64/libarcsoft_beautyshot.so \
+    vendor/huawei/anne/proprietary/odm/lib64/libarcsoft_palm_detection.so:$(TARGET_COPY_OUT_ODM)/lib64/libarcsoft_palm_detection.so \
+    vendor/huawei/anne/proprietary/odm/lib64/libdcamera_effect.so:$(TARGET_COPY_OUT_ODM)/lib64/libdcamera_effect.so \
+    vendor/huawei/anne/proprietary/odm/lib64/libdualCamera_calibration.so:$(TARGET_COPY_OUT_ODM)/lib64/libdualCamera_calibration.so \
+    vendor/huawei/anne/proprietary/odm/lib64/libfcell.so:$(TARGET_COPY_OUT_ODM)/lib64/libfcell.so \
+    vendor/huawei/anne/proprietary/odm/lib64/libmegface_meglive.so:$(TARGET_COPY_OUT_ODM)/lib64/libmegface_meglive.so \
+    vendor/huawei/anne/proprietary/odm/lib64/libmmi_depth.so:$(TARGET_COPY_OUT_ODM)/lib64/libmmi_depth.so \
+    vendor/huawei/anne/proprietary/odm/lib64/libmpbase.so:$(TARGET_COPY_OUT_ODM)/lib64/libmpbase.so \
+    vendor/huawei/anne/proprietary/odm/lib64/libmrc_cg_beauty.so:$(TARGET_COPY_OUT_ODM)/lib64/libmrc_cg_beauty.so \
+    vendor/huawei/anne/proprietary/odm/lib64/libremosaic_wrapper.so:$(TARGET_COPY_OUT_ODM)/lib64/libremosaic_wrapper.so \
+    vendor/huawei/anne/proprietary/odm/lib64/libremosaiclib.so:$(TARGET_COPY_OUT_ODM)/lib64/libremosaiclib.so \
+    vendor/huawei/anne/proprietary/odm/lib64/libunlockmegcv.so:$(TARGET_COPY_OUT_ODM)/lib64/libunlockmegcv.so \
     vendor/huawei/anne/proprietary/odm/ta/sign_tool_product_ta.sec:$(TARGET_COPY_OUT_ODM)/ta/sign_tool_product_ta.sec \
     vendor/huawei/anne/proprietary/vendor/etc/cfg_ane_al00_hisi.ini:$(TARGET_COPY_OUT_VENDOR)/etc/cfg_ane_al00_hisi.ini \
     vendor/huawei/anne/proprietary/vendor/etc/cfg_ane_lx1_hisi.ini:$(TARGET_COPY_OUT_VENDOR)/etc/cfg_ane_lx1_hisi.ini \
